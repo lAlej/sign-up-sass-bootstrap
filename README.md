@@ -7,6 +7,9 @@ Este proyecto fue realizado utilizando HTML, CSS, Sass y Bootstrap, siguiendo el
 
 * [LinkedIn](https://www.linkedin.com/in/lapee/)
 
+## Ver ejemplo en vivo 💻
+- [https://lalej.github.io/sign-up-sass-bootstrap/](https://lalej.github.io/sign-up-sass-bootstrap/)
+
 ## Instalación 📀
 Este proyecto no necesita instalación. Descargar archivos y abrir index.html.
 
