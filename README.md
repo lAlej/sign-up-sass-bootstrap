@@ -1,6 +1,6 @@
 ## Descripción 📖
 
-Este proyecto fue realizado utilizando HTML, CSS, Sass y Bootstrap, siguiendo el diseño de un coding challenge de Frontend Mentor. Fue realizado con la finalidad de poner en practica mis conocimientos de sass y bootstrap. También se utilizó la extensión Live sass Compiler para compilar y transformar el archivo sass en css, y la herramienta Purge CSS para disminuir y depurar el código css.
+Este proyecto fue realizado utilizando HTML, CSS, Sass y Bootstrap, siguiendo el diseño de un coding challenge de Frontend Mentor. Fue realizado en mobile first y con la finalidad de poner en practica mis conocimientos de sass y bootstrap. También se utilizó la extensión Live sass Compiler para compilar y transformar el archivo sass en css, y la herramienta Purge CSS para disminuir y depurar el código css.
 
 ## Autor 🧔🏻 -
 **Luis Peña**
